@@ -1,5 +1,5 @@
 ---
-intelbase: <!-- true or false -->
+intelbase: # true or false
 version: 1
 ---
 
