@@ -2,7 +2,7 @@
 
 # 公開版一覧
 
-## 第１．１．１版
+## 第１・１・１版
 
 - 説明書。
 - 利用規約。参照：[s2312611/cc0-0bsd-template](https://github.com/s2312611/cc0-0bsd-template)。
