@@ -7,7 +7,7 @@
 ## 目次
 
 - [雛型一覧](#雛型一覧)
-- [版号一覧](#版号一覧)
+- [公開版一覧](#公開版一覧)
 
 ## 雛型一覧
 
@@ -15,7 +15,7 @@
 - 書籍用雛型：[有説明](./japanese/book/annotated.md)・[無説明](./japanese/book/template.md)。
 - 其他用雛型：[有説明](./japanese/miscellaneous/annotated.md)・[無説明](./japanese/miscellaneous/template.md)。
 
-## 版号一覧
+## 公開版一覧
 
 詳細は[別ファイル](./version.md)を参照の事。
 
