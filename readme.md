@@ -19,7 +19,7 @@
 
 詳細は[別ファイル](./version.md)を参照の事。
 
-- [第１・１・１版](https://github.com/s2312611/intelbase/tree/ver.01.01)（ベータ版）
+- [第１・１版](https://github.com/s2312611/intelbase/tree/ver.01.01)（ベータ版）
 - [第１・１・１版](https://github.com/s2312611/intelbase/tree/ver.01.01.01)
 
 # Intelbase
