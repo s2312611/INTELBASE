@@ -2,6 +2,8 @@
 
 # 知能基盤
 
+現在、各文献種に対応した雛型の開発に注力中。
+
 ## 目次
 
 - [雛型一覧](#雛型一覧)
@@ -13,6 +15,8 @@
 - 其他用雛型：[有説明](https://raw.githubusercontent.com/s2312611/intelbase/default/japanese/miscellaneous/annotated.md)・[無説明](https://raw.githubusercontent.com/s2312611/intelbase/default/japanese/miscellaneous/template.md)。
 
 # Intelbase
+
+I am currently working on templates for each type of literature.
 
 ## Table of Contents
 
