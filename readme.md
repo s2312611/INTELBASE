@@ -17,7 +17,7 @@
 
 ## 版号一覧
 
-[別ファイル](./version.md)を参照の事。
+詳細は[別ファイル](./version.md)を参照の事。
 
 # Intelbase
 
@@ -36,4 +36,4 @@ I am currently working on templates for each type of literature.
 
 ## List of Versions
 
-Reference [another file](./version.md).
+Reference [another file](./version.md) for more information.
