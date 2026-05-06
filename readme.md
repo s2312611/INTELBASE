@@ -19,6 +19,9 @@
 
 詳細は[別ファイル](./version.md)を参照の事。
 
+- [第１・１・１版](https://github.com/s2312611/intelbase/tree/ver.01.01)（ベータ版）
+- [第１・１・１版](https://github.com/s2312611/intelbase/tree/ver.01.01.01)
+
 # Intelbase
 
 I am currently working on templates for each type of literature.
@@ -37,3 +40,6 @@ I am currently working on templates for each type of literature.
 ## List of Versions
 
 Reference [another file](./version.md) for more information.
+
+- [Version 1.1](https://github.com/s2312611/intelbase/tree/ver.01.01) (beta version)
+- [Version 1.1.1](https://github.com/s2312611/intelbase/tree/ver.01.01.01)
