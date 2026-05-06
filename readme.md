@@ -17,9 +17,7 @@
 
 ## 版号一覧
 
-| 版号 | 概要 |
-|:---:|:--- |
-| [ver.01.01.01](https://github.com/s2312611/intelbase/tree/ver.01.01.01/) | 論文と書籍と其他用の雛型を公開 |
+[別ファイル](./version.md)を参照の事。
 
 # Intelbase
 
@@ -38,6 +36,4 @@ I am currently working on templates for each type of literature.
 
 ## List of Versions
 
-| Version | Description |
-|:---:|:--- |
-| [ver.01.01.01](https://github.com/s2312611/intelbase/tree/ver.01.01.01/) | published templates for articles, books, and micellaneouses |
+Reference [another file](./version.md).
