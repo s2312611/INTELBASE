@@ -2,6 +2,11 @@
 
 # 公開版一覧
 
+## 第１・１・２版
+
+- 説明書の壊れたリンクを修正。
+- 公開版一覧を追加。
+
 ## 第１・１・１版
 
 - 説明書。
@@ -14,6 +19,11 @@
 - 英語の其他用のマークダウン雛型。
 
 # List of Versions
+
+## Version 1.1.2
+
+- Fixed the broken links in ReadMe.
+- Added the list of versions.
 
 ## Version 1.1.1
 
