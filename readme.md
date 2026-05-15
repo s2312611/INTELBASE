@@ -11,9 +11,11 @@
 
 ## 雛型一覧
 
-- 論文用雛型：[有説明](./japanese/article/annotated.md)・[無説明](./japanese/article/template.md)。
-- 書籍用雛型：[有説明](./japanese/book/annotated.md)・[無説明](./japanese/book/template.md)。
-- 其他用雛型：[有説明](./japanese/miscellaneous/annotated.md)・[無説明](./japanese/miscellaneous/template.md)。
+| 文献 | 雛形 |
+|:--- |:--- |
+| 論文 | [有説明](./japanese/article/annotated.md)、[無説明](./japanese/article/template.md) |
+| 書籍 | [有説明](./japanese/book/annotated.md)、[無説明](./japanese/book/template.md) |
+| 其他 | [有説明](./japanese/miscellaneous/annotated.md)、[無説明](./japanese/miscellaneous/template.md) |
 
 # Intelbase
 
@@ -26,6 +28,8 @@ I am currently working on templates for each type of literature.
 
 ## List of Templates
 
-- Template for articles: [with comments](./english/article/annotated.md) and [without comments](./english/article/template.md).
-- Template for books: [with comments](./english/book/annotated.md) and [without comments](./english/book/template.md).
-- Template for micellaneouses: [with comments](./english/micellaneous/annotated.md) and [without comments](./english/book/template.md).
+| Literature | Template |
+|:--- |:--- |
+| articles | [with comments](./english/article/annotated.md) and [without comments](./english/article/template.md) |
+| books | [with comments](./english/book/annotated.md) and [without comments](./english/book/template.md) |
+| micellaneouses | [with comments](./english/micellaneous/annotated.md) and [without comments](./english/book/template.md) |
