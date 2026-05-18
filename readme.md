@@ -7,7 +7,7 @@
 ## 目次
 
 - [雛型一覧](#雛型一覧)
-- [公開版一覧](./version.md)
+- [公開版一覧](#公開版一覧)
 
 ## 雛型一覧
 
@@ -17,6 +17,10 @@
 | 書籍 | [有説明](./japanese/book/annotated.md)、[無説明](./japanese/book/template.md) |
 | 其他 | [有説明](./japanese/miscellaneous/annotated.md)、[無説明](./japanese/miscellaneous/template.md) |
 
+## 公開版一覧
+
+別ファイル（[`version.md`](./version.md)）を参照せよ。
+
 # Intelbase
 
 I am currently working on templates for each type of literature.
@@ -24,7 +28,7 @@ I am currently working on templates for each type of literature.
 ## Table of Contents
 
 - [List of Templates](#list-of-templates)
-- [List of Versions](./version.md)
+- [List of Versions](#list-of-versions)
 
 ## List of Templates
 
@@ -33,3 +37,7 @@ I am currently working on templates for each type of literature.
 | articles | [with comments](./english/article/annotated.md) and [without comments](./english/article/template.md) |
 | books | [with comments](./english/book/annotated.md) and [without comments](./english/book/template.md) |
 | micellaneouses | [with comments](./english/micellaneous/annotated.md) and [without comments](./english/book/template.md) |
+
+## List of Versions
+
+Reference another file ([`version.md`](./version.md)).
