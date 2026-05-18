@@ -22,7 +22,7 @@
 
 別ファイル（[`version.md`](./version.md)）を参照せよ。
 
-# Intelbase
+# Intelligence-base
 
 I am currently working on templates for each type of literature.
 
