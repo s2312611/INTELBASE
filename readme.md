@@ -15,6 +15,7 @@
 |:--- |:--- |
 | 論文 | [有説明](./japanese/article/annotated.md)、[無説明](./japanese/article/template.md) |
 | 書籍 | [有説明](./japanese/book/annotated.md)、[無説明](./japanese/book/template.md) |
+| 講義 | [有説明](./japanese/lecture/annotated.md)、[無説明](./japanese/lecture/template.md) |
 | 其他 | [有説明](./japanese/miscellaneous/annotated.md)、[無説明](./japanese/miscellaneous/template.md) |
 
 ## 公開版一覧
@@ -36,6 +37,7 @@ I am currently working on templates for each type of literature.
 |:--- |:--- |
 | articles | [with comments](./english/article/annotated.md) and [without comments](./english/article/template.md) |
 | books | [with comments](./english/book/annotated.md) and [without comments](./english/book/template.md) |
+| lecture | [with comments](./english/lecture/annotated.md) and [without comments](./english/lecture/template.md) |
 | micellaneouses | [with comments](./english/micellaneous/annotated.md) and [without comments](./english/book/template.md) |
 
 ## List of Versions
